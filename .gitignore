@@ -1,0 +1,39 @@
+# Windows системные файлы
+Thumbs.db
+Desktop.ini
+NTUSER.DAT*
+ntuser.*
+*.regtrans-ms
+*.log1
+*.log2
+
+# Папки Windows
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+
+# Git
+.git/
+
+# Редакторы кода
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Архивы
+*.zip
+*.tar.gz
+*.rar
